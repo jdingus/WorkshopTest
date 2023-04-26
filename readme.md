@@ -11,10 +11,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/mqtt-explorer.git
-cd mqtt-explorer
-
-Create a virtual environment and activate it:
+Create a virtual environment and activate it inside the repo folder:
 
 python3 -m venv venv
 source venv/bin/activate
