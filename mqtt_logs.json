@@ -1,0 +1,38 @@
+2023-04-26 16:58:54,651 - INFO - {"object_created": "QApplication"}
+2023-04-26 17:00:55,026 - INFO - {"object_created": "QApplication"}
+2023-04-26 17:03:09,443 - INFO - {"object_created": "QApplication"}
+2023-04-26 17:03:09,558 - INFO - {"object_created": "threading.Lock", "name": "gui_update_lock"}
+2023-04-26 17:03:09,619 - INFO - {"object_created": "MQTT client", "broker_address": "45.76.236.64", "broker_port": 1883}
+2023-04-26 17:03:09,718 - INFO - {"received_message": {"topic": "spBv1.0/app/data/1/2", "payload": "dI&\u00bd\u0000\u0003\u0000\u0004tempA\u00bc\u0000\u0000\u0000\bpressureDzL\u00cd\u0000\bhumidityB4\u0000\u0000"}}
+2023-04-26 17:03:09,719 - INFO - {"received_message": {"topic": "spBv1.0/STATE/Cirrus-MQTT-Engine", "payload": "{\"online\":true,\"timestamp\":1682532559157}"}}
+2023-04-26 17:03:09,719 - INFO - {"received_message": {"topic": "STATE/Cirrus-MQTT-Engine", "payload": "ONLINE"}}
+2023-04-26 17:03:09,719 - INFO - {"received_message": {"topic": "$SYS/brokers/emqx@127.0.0.1/sysdescr", "payload": "EMQ X"}}
+2023-04-26 17:03:09,719 - INFO - {"received_message": {"topic": "$SYS/brokers/emqx@127.0.0.1/version", "payload": "4.3.7"}}
+2023-04-26 17:03:09,720 - INFO - {"received_message": {"topic": "$SYS/brokers", "payload": "emqx@127.0.0.1"}}
+2023-04-26 17:05:24,255 - INFO - {"object_created": "QApplication"}
+2023-04-26 17:05:24,571 - INFO - {"object_created": "threading.Lock", "name": "gui_update_lock"}
+2023-04-26 17:05:24,626 - INFO - {"object_created": "MQTT client", "broker_address": "45.76.236.64", "broker_port": 1883}
+2023-04-26 17:05:24,732 - INFO - {"received_message": {"topic": "spBv1.0/app/data/1/2", "payload": "dI&\u00bd\u0000\u0003\u0000\u0004tempA\u00bc\u0000\u0000\u0000\bpressureDzL\u00cd\u0000\bhumidityB4\u0000\u0000"}}
+2023-04-26 17:05:24,733 - INFO - {"received_message": {"topic": "spBv1.0/STATE/Cirrus-MQTT-Engine", "payload": "{\"online\":true,\"timestamp\":1682532559157}"}}
+2023-04-26 17:05:24,733 - INFO - {"received_message": {"topic": "STATE/Cirrus-MQTT-Engine", "payload": "ONLINE"}}
+2023-04-26 17:05:24,733 - INFO - {"received_message": {"topic": "$SYS/brokers/emqx@127.0.0.1/sysdescr", "payload": "EMQ X"}}
+2023-04-26 17:05:24,735 - INFO - {"received_message": {"topic": "$SYS/brokers/emqx@127.0.0.1/version", "payload": "4.3.7"}}
+2023-04-26 17:05:24,736 - INFO - {"received_message": {"topic": "$SYS/brokers", "payload": "emqx@127.0.0.1"}}
+2023-04-26 17:07:32,802 - INFO - {"object_created": "QApplication"}
+2023-04-26 17:07:33,109 - INFO - {"object_created": "threading.Lock", "name": "gui_update_lock"}
+2023-04-26 17:07:33,181 - INFO - {"object_created": "MQTT client", "broker_address": "45.76.236.64", "broker_port": 1883}
+2023-04-26 17:07:33,279 - INFO - {"received_message": {"topic": "spBv1.0/app/data/1/2", "payload": "dI&\u00bd\u0000\u0003\u0000\u0004tempA\u00bc\u0000\u0000\u0000\bpressureDzL\u00cd\u0000\bhumidityB4\u0000\u0000"}}
+2023-04-26 17:07:33,279 - INFO - {"received_message": {"topic": "spBv1.0/STATE/Cirrus-MQTT-Engine", "payload": "{\"online\":true,\"timestamp\":1682532559157}"}}
+2023-04-26 17:07:33,279 - INFO - {"received_message": {"topic": "STATE/Cirrus-MQTT-Engine", "payload": "ONLINE"}}
+2023-04-26 17:07:33,280 - INFO - {"received_message": {"topic": "$SYS/brokers/emqx@127.0.0.1/sysdescr", "payload": "EMQ X"}}
+2023-04-26 17:07:33,280 - INFO - {"received_message": {"topic": "$SYS/brokers/emqx@127.0.0.1/version", "payload": "4.3.7"}}
+2023-04-26 17:07:33,280 - INFO - {"received_message": {"topic": "$SYS/brokers", "payload": "emqx@127.0.0.1"}}
+2023-04-26 17:15:43,060 - INFO - {"object_created": "QApplication"}
+2023-04-26 17:15:43,148 - INFO - {"object_created": "threading.Lock", "name": "gui_update_lock"}
+2023-04-26 17:15:43,206 - INFO - {"object_created": "MQTT client", "broker_address": "45.76.236.64", "broker_port": 1883}
+2023-04-26 17:15:43,317 - INFO - {"received_message": {"topic": "spBv1.0/app/data/1/2", "payload": "dI&\u00bd\u0000\u0003\u0000\u0004tempA\u00bc\u0000\u0000\u0000\bpressureDzL\u00cd\u0000\bhumidityB4\u0000\u0000"}}
+2023-04-26 17:15:43,317 - INFO - {"received_message": {"topic": "spBv1.0/STATE/Cirrus-MQTT-Engine", "payload": "{\"online\":true,\"timestamp\":1682532559157}"}}
+2023-04-26 17:15:43,317 - INFO - {"received_message": {"topic": "STATE/Cirrus-MQTT-Engine", "payload": "ONLINE"}}
+2023-04-26 17:15:43,317 - INFO - {"received_message": {"topic": "$SYS/brokers/emqx@127.0.0.1/sysdescr", "payload": "EMQ X"}}
+2023-04-26 17:15:43,318 - INFO - {"received_message": {"topic": "$SYS/brokers/emqx@127.0.0.1/version", "payload": "4.3.7"}}
+2023-04-26 17:15:43,318 - INFO - {"received_message": {"topic": "$SYS/brokers", "payload": "emqx@127.0.0.1"}}
